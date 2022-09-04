@@ -7,5 +7,6 @@ int main(int argc, char const *argv[])
     cout<<a+b<<endl;
     cout<<b-a<<endl;
     cout<<b/a<<endl;
+    cout<<"*"<<endl;
     return 0;
 }
